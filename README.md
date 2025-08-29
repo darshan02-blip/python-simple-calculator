@@ -12,3 +12,10 @@ A simple calculator that works in **two modes**:
 ```bash
 git clone https://github.com/your-username/calculator.git
 cd calculator
+## Screenshots  
+
+### Tkinter GUI  
+![Addition](screenshots/addition.png)  
+![Subtraction](screenshots/subtraction.png)  
+![Multiplication](screenshots/multiplication.png)  
+![Division](screenshots/division.png)  
